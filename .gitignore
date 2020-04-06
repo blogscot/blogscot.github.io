@@ -1,0 +1,3 @@
+.cpcache
+blogscot.github.io/out/*
+!blogscot.github.io/out/main.js
